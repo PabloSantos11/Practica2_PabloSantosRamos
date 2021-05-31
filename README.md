@@ -1,4 +1,7 @@
 # Práctica 2: Limpieza y análisis de datos
+
+## Análisis del precio de las viviendas en EEUU.
+
 Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se  elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas.
 
 # Miembros del equipo
